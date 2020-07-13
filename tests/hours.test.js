@@ -10,7 +10,7 @@ module.exports = {
 
     login
       .navigate()
-      .login(feed.user, feed.password)
+      .login(feed.user, feed.pass)
 
     dashboard
       .waitForElementVisible('@profile')

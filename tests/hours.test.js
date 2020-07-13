@@ -1,4 +1,4 @@
-const feed = require('./feed')
+const feed = require('./hours-feed')
 
 module.exports = {
   'Preenchimento das horas': function(browser) {

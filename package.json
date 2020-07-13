@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Gianpaulo M. Soares <jam_pow@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nightwatch"
+  },
+  "dependencies": {
+    "chromedriver": "^83.0.1",
+    "nightwatch": "^1.3.6"
+  }
 }

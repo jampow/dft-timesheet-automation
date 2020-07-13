@@ -50,7 +50,7 @@ module.exports = {
 
 
     browser
-      .pause(9999999)
+      .pause(1200000)
 
   }
 }
